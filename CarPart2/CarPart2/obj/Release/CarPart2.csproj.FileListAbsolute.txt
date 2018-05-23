@@ -1,0 +1,17 @@
+E:\Мои документы\БД\CarPart2\CarPart2\bin\Release\CarPart2.exe.config
+E:\Мои документы\БД\CarPart2\CarPart2\bin\Release\CarPart2.exe
+E:\Мои документы\БД\CarPart2\CarPart2\bin\Release\CarPart2.pdb
+E:\Мои документы\БД\CarPart2\CarPart2\obj\Release\CarPart2.csprojResolveAssemblyReference.cache
+E:\Мои документы\БД\CarPart2\CarPart2\obj\Release\CarPart2.AddSilerListForm.resources
+E:\Мои документы\БД\CarPart2\CarPart2\obj\Release\CarPart2.AddStringInTable.resources
+E:\Мои документы\БД\CarPart2\CarPart2\obj\Release\CarPart2.DeleteString.resources
+E:\Мои документы\БД\CarPart2\CarPart2\obj\Release\CarPart2.DisplayForm.resources
+E:\Мои документы\БД\CarPart2\CarPart2\obj\Release\CarPart2.MainForm.resources
+E:\Мои документы\БД\CarPart2\CarPart2\obj\Release\CarPart2.Properties.Resources.resources
+E:\Мои документы\БД\CarPart2\CarPart2\obj\Release\CarPart2.SellingForm.resources
+E:\Мои документы\БД\CarPart2\CarPart2\obj\Release\CarPart2.SuplayListForm.resources
+E:\Мои документы\БД\CarPart2\CarPart2\obj\Release\CarPart2.SupplyForm.resources
+E:\Мои документы\БД\CarPart2\CarPart2\obj\Release\CarPart2.UpdateString.resources
+E:\Мои документы\БД\CarPart2\CarPart2\obj\Release\CarPart2.csproj.GenerateResource.Cache
+E:\Мои документы\БД\CarPart2\CarPart2\obj\Release\CarPart2.exe
+E:\Мои документы\БД\CarPart2\CarPart2\obj\Release\CarPart2.pdb
